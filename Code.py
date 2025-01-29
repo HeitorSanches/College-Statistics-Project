@@ -6,9 +6,7 @@
 
 import pandas as pd
 import plotly.express as px
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
+
 
 
 # In[2]:
